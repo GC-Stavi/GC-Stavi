@@ -13,7 +13,7 @@ I build operational tools for aviation at the intersection of flight deck experi
 Next.js · TypeScript · JavaScript · Python · Supabase · OpenAI GPT · Whisper API · Stripe · Vercel · Netlify
 
 ## Background
-31 years aviation: RNZAF strategic air transport, B737 Fleet Manager (Airwork), Check & Training Captain (Air New Zealand), E190 Line Captain (Alliance Airlines). Flight Examiner qualified across B777/787, B757/767, B737, A320, and E190 series. Applied technology across aviation compliance, safety reporting, crew operations, and property feasibility.
+31 years aviation: RNZAF strategic air transport, B737 Fleet Manager (Airwork), Check & Training Pilot (Air New Zealand), E190 Line Captain (Alliance Airlines). Flight Examiner qualified across B777/787, B757/767, B737, A320, and E190 series. Applied technology across aviation compliance, safety reporting, crew operations, and property feasibility.
 
 ## Contact
 admin@rosterguard.app · [linkedin.com/in/craigabela-boeingairbus](https://www.linkedin.com/in/craigabela-boeingairbus/)
